@@ -1,0 +1,25 @@
+{
+  "name": "erwar-yoda",
+  "version": "0.0.1",
+  "description": "yoda speak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erwinwahyura/erwar-yoda.git"
+  },
+  "keywords": [
+    "erwar",
+    "yoda",
+    "speak",
+    "speak"
+  ],
+  "author": "Erwin W Ramadhan <erwinwahyuramadhan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erwinwahyura/erwar-yoda/issues"
+  },
+  "homepage": "https://github.com/erwinwahyura/erwar-yoda#readme"
+}
