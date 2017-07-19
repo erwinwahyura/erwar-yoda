@@ -1,6 +1,6 @@
 {
   "name": "erwar-yoda",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "yoda speak",
   "main": "index.js",
   "scripts": {
